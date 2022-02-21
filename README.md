@@ -18,6 +18,14 @@ npm link
 npm link inputdate
 // in current angular directory
 ```
+Start the api :
+
+git clone
+```
+https://github.com/Danieler/proteo4api.git
+npm run dev
+
+```
 ## To Run the Application
 ```
 npm i
